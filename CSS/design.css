@@ -1,0 +1,19 @@
+body {
+    color: green;    
+}
+
+h1 {
+    font-size: 75px;
+    letter-spacing: 20px;
+    color: indianred;
+}
+
+.cont {
+    font-size: 25px;
+    color: aqua;
+}
+
+p {
+    font-size: 18px;
+    color: slategrey;
+}
