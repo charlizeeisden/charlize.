@@ -1,19 +1,31 @@
 body {
-    color: green;    
+    
+    background: rgb(0, 110, 255); 
 }
 
 h1 {
-    font-size: 75px;
-    letter-spacing: 20px;
-    color: indianred;
+    font-size: 50px;
+    letter-spacing: 3px;
+    color:yellow;
+    font-family: 'Handlee';
 }
 
-.cont {
+h3 {
     font-size: 25px;
-    color: aqua;
+    letter-spacing: 3px;
+    color:yellow;
+}
+
+#uniek {
+    color: aquamarine;
 }
 
 p {
-    font-size: 18px;
-    color: slategrey;
+    font-size: 15px; 
+    color: black;
+}
+
+.body {
+    font-family: 'Handlee';
+    font-size: 50px;
 }
